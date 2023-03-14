@@ -1,0 +1,180 @@
+body {
+  width: 1440px;
+  height: 1721px;
+}
+
+.header {
+  text-align: center;
+  margin: 70px;
+}
+
+.header h1 {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.header p {
+  font-weight: 600;
+  font-size: 54px;
+}
+
+.header h2 {
+  font-weight: 400;
+  font-size: 20px;
+  color: #5f6980;
+  padding: 20px 25%;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+}
+
+.cards p {
+  font-weight: 600;
+  font-size: 18px;
+  padding-top: 10px;
+  margin-left: 15px;
+}
+
+.cards h1 {
+  font-weight: 400;
+  font-size: 14px;
+  color: #3e3e59;
+  padding-top: 10px;
+  margin-left: 15px;
+}
+
+.cards h2 {
+  font-weight: 400;
+  font-size: 14px;
+  color: #5f6980;
+  padding-top: 10px;
+  margin-right: 20%;
+  margin-left: 15px;
+}
+
+.icons {
+  padding-top: 30px;
+  margin-left: 15px;
+}
+
+.card-1 {
+  border: 1px solid #eaecf0;
+  width: 310px;
+}
+
+.card-2 {
+  border: 1px solid#EAECF0;
+  width: 310px;
+}
+
+.card-3 {
+  border: 1px solid #eaecf0;
+  width: 310px;
+}
+
+.card-4 {
+  border: 1px solid#EAECF0;
+  width: 310px;
+}
+
+.cards-2 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 70px;
+}
+
+.cards-2 p {
+  font-weight: 600;
+  font-size: 18px;
+  padding-top: 10px;
+  margin-left: 15px;
+}
+
+.cards-2 h1 {
+  font-weight: 400;
+  font-size: 14px;
+  color: #3e3e59;
+  padding-top: 10px;
+  margin-left: 15px;
+}
+
+.cards-2 h2 {
+  font-weight: 400;
+  font-size: 14px;
+  color: #5f6980;
+  padding-top: 10px;
+  margin-right: 20%;
+  margin-left: 15px;
+}
+
+.card-5 {
+  border: 1px solid #eaecf0;
+  width: 310px;
+}
+
+.card-6 {
+  border: 1px solid #eaecf0;
+  width: 310px;
+}
+
+.card-7 {
+  border: 1px solid #eaecf0;
+  width: 310px;
+}
+
+.card-8 {
+  border: 1px solid #eaecf0;
+  width: 310px;
+}
+
+footer {
+  width: 1654px;
+  height: 512px;
+  background-color: #53535354;
+  margin-top: 100px;
+}
+
+.group {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 100px;
+  padding-right: 200px;
+}
+
+.group p {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.text h1 {
+  width: 306.05px;
+  margin-left: 100px;
+  margin-top: 50px;
+  color: #535353;
+}
+
+.text li {
+  margin-bottom: 30px;
+  padding-left: 100px;
+  color: #535353;
+}
+
+.text {
+  display: flex;
+}
+
+.services li {
+  margin-left: 200px;
+}
+
+.languages {
+  color: #ffffff;
+  width: 80px;
+  height: 45px;
+  background-color: #054a68;
+  text-align: center;
+  padding-top: 15px;
+  margin-left: 245px;
+}
